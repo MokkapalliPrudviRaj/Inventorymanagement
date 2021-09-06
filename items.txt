@@ -1,0 +1,12 @@
+ all_products = [
+ [1, 'Smart Phone', 20, '200$', 'Xiaomi'], 
+ [2, 'Head Phones', 100, '30$', 'Xiaomi'], 
+ [3, 'Screen Guard', 200, '5$', 'Xiaomi'], 
+ [4, 'Chargers', 100, '10$', 'Xiaomi'], 
+ [5, 'Memory Cards', 120, '50$', 'Xiaomi'],
+ [6, 'Laptop    ', 35, '700$', 'Xiaomi'],
+ [7, 'Laptop Bag', 50, '30$', 'Xiaomi'],
+ [8, 'Back Case', 100, '10$', 'Xiaomi'],
+ [9, 'Ear Phones', 50, '20$', 'Xiaomi'],
+ [10,'Laptop Skin', 30, '5$', 'Xiaomi']
+ ]
